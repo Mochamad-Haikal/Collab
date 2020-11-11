@@ -1,2 +1,4 @@
 ini adalah file 1
 
+
+ini dari prog1
