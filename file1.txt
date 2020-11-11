@@ -1,4 +1,7 @@
 ini adalah file 1
 
 
+ini dari prog2
+
 ini dari prog1
+
